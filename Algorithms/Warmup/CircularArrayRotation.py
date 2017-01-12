@@ -1,5 +1,5 @@
 #!/bin/python3
-
+# https://www.hackerrank.com/challenges/circular-array-rotation
 import sys
 
 n,k,q = input().strip().split(' ')
