@@ -1,5 +1,5 @@
 #!/bin/python3
-
+# https://www.hackerrank.com/challenges/compare-the-triplets
 import sys
 
 
