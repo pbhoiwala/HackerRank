@@ -1,5 +1,5 @@
 #!/bin/python3
-
+# https://www.hackerrank.com/challenges/time-conversion
 import sys
 
 
