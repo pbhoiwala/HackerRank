@@ -1,3 +1,7 @@
+#!/bin/python3
+# https://www.hackerrank.com/challenges/the-grid-search
+import sys
+
 def find_all(main_str, sub_str):
     begin = 0
     while True:
