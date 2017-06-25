@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/an-interesting-game-1/submissions/code/43717664
+# https://www.hackerrank.com/challenges/an-interesting-game-1
 import sys
 
 def findMaxIndex(array):
